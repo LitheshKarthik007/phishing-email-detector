@@ -1,0 +1,9 @@
+text,label
+"Verify your bank password immediately",phishing
+"Your account has been suspended",phishing
+"Click here to claim your reward",phishing
+"Urgent login required now",phishing
+"Meeting scheduled tomorrow",safe
+"Project submission deadline updated",safe
+"Lunch at 1 PM today",safe
+"Team discussion at 5 PM",safe
